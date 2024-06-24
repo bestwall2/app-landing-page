@@ -1,4 +1,7 @@
 {
+  "engines": {
+    "node": "16.x"
+  },
   "name": "app-landing-page",
   "version": "1.0.0",
   "description": "Create and deploy an iOS app landing page with Jekyll",

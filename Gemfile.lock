@@ -65,5 +65,3 @@ DEPENDENCIES
   jekyll (~> 4.2.0)
   jekyll-postcss
 
-BUNDLED WITH
-   2.2.4
